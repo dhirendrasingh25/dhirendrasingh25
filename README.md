@@ -29,4 +29,4 @@
 
 
 
-![snake gif](https://github.com/dhirendrasingh25/dhirendrasingh25/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/dhirendrasingh25/dhirendrasingh25/blob/manual-run-output/only-svg/github-contribution-grid-snake.gif)
