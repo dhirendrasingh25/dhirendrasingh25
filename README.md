@@ -46,26 +46,7 @@
 <h4 align="left">Stars</h4>
 
 
-<style>
-    .stats-container {
-        display: flex;
-        justify-content: space-between;
-    }
 
-    .stats-item {
-        width: 50%;
-    }
-
-    @media (max-width: 600px) {
-        .stats-container {
-            flex-direction: column;
-        }
-
-        .stats-item {
-            width: 100%;
-        }
-    }
-</style>
 
 <div class="stats-container">
     <div class="stats-item">
