@@ -1,15 +1,12 @@
+<h1 align="center"> Greetings! ✨ I'm Dhirendra Singh </h1>
+<h3 align="center">A passionate MERN stack developer, Navigating the realms of databases, server-side logic, and seamless user interfaces, I excel as a MERN Stack specialist</h3>
 
-<h6>
-  <br />
-  <h6>  Greetings! ✨ I'm Dhirendra Singh </h6> A final-year Engineering enthusiast at Thakur College of Engineering, Mumbai.
-  <br />
-  💡 Proficient in ReactJS and well-versed in MERN Stack Development,
   <br />
   ❤️‍🔥 Beyond coding, I love collaborating with like-minded individuals and teams.
   <br />
   Feel free to reach out, let's create something amazing together! 🚀
   <br />
-</h6>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
